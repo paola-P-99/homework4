@@ -10,7 +10,7 @@ Ensure that you have a ROS 2 workspace set up and ROS 2 installed on your system
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/rl_fra2mo_description.git
+   git clone https://github.com/paola-P-99/homework4.git
 
 2. Build the workspace:
     ``` bash
